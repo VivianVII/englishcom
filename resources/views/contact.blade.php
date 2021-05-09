@@ -26,7 +26,7 @@
                   </li>
 
                   <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                      <p>+ 01 234 567 89</p>
+                      <p>+ 011 2117 0073</p>
                   </li>
 
                   <li><i class="fas fa-envelope mt-4 fa-2x"></i>
