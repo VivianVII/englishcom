@@ -26,7 +26,7 @@
                   </li>
 
                   <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                      <p>+ 011 2117 0073</p>
+                      <p>+ 0123456789</p>
                   </li>
 
                   <li><i class="fas fa-envelope mt-4 fa-2x"></i>
