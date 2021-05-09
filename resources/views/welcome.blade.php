@@ -19,10 +19,10 @@
       <p>Whether you want to accelerate your career, improve your social interactions, or to practise your conversational skills, we can help you to achieve your goals.</p>
       <p>Our experienced and qualified teachers offer  interactive  online English classes and courses. Lessons in person may restart when the covid situation improves. We aim to give you the confidence to use the English language in situations that matter to you.</p>
 
-      <h3>Special Classes: Learn Japanese </h3>
+     <!-- <h3>Special Classes: Learn Japanese </h3>
       <p>Japanese lessons for adults and children by a Japanese teacher <br>
       From basic to advanced levels and writing <br>
-      Reasonable rates</p>
+      Reasonable rates</p>-->
 
 
     </div>
@@ -73,63 +73,53 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Primary 6-11 years</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5 mt-md-0">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Secondary 12-18 years</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-5 mt-lg-0 ">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Business English</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">English Conversation</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Advanced English</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Creative writing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">English for Japanese & Koreans</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">TOEIC and Aiken preparation</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Academic writing for college students</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mt-5">
             <div class="icon-box">
               <h4 class="title"><a href="{{ url('/classes') }}">Motivational class for young adults</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
         </div>
